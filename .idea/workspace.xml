@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a7886eb-1c9f-4114-bd96-91785acec10f" name="Default Changelist" comment="Add tryout arrayList">
-      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/TryOutArrayList.java" afterDir="false" />
+    <list default="true" id="9a7886eb-1c9f-4114-bd96-91785acec10f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/sumOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/sumOfThreeMethod2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/Practice_Ivy/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/Practice_Ivy/First.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_Ivy/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/Practice_Ivy/First.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.First">
+  <component name="RunManager" selected="Application.sumOfThreeMethod2">
     <configuration name="ArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lists.classes.ArrayListMain" />
       <module name="javadatastuctureexpirencedForked" />
@@ -83,12 +83,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.sumOfThree" />
+      <module name="javadatastuctureexpirencedForked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_Ivy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumOfThreeMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.sumOfThreeMethod2" />
+      <module name="javadatastuctureexpirencedForked" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_Ivy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayListMain" />
+      <item itemvalue="Application.First" />
+      <item itemvalue="Application.Second" />
+      <item itemvalue="Application.sumOfThree" />
+      <item itemvalue="Application.sumOfThreeMethod2" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumOfThreeMethod2" />
+        <item itemvalue="Application.sumOfThree" />
         <item itemvalue="Application.First" />
         <item itemvalue="Application.ArrayListMain" />
-        <item itemvalue="Application.Second" />
-        <item itemvalue="Application.First" />
         <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>
@@ -125,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654050754760</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add tryout arrayList">
+      <created>1654059244433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654059244433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,30 +192,34 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="320" y="100" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1654057779780" />
-    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654059203510">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654060100211">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654059203510" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1654060100211" />
+    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654059243833">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654059243833" />
     <state x="578" y="366" key="Github.Dialog.Accounts.Choose" timestamp="1654047988913">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="578" y="366" key="Github.Dialog.Accounts.Choose/0.23.1440.823@0.23.1440.823" timestamp="1654047988913" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1654059203608">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1654060069549">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654059203608" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1654059203607">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654060069549" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1654060069533">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654059203607" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1654059203606">
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654060069533" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1654060069532">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654059203606" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1654059203607">
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654060069532" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1654060069546">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654059203607" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654060069546" />
     <state x="389" y="152" key="RollbackChangesDialog" timestamp="1654050255502">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -187,10 +232,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="426" y="146" key="VCS.ChangeListViewerDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050100335" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654059225493">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654059256258">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654059225493" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654059256258" />
     <state x="390" y="233" key="git4idea.merge.GitPullDialog" timestamp="1654051160567">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -207,5 +252,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1654057459031" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javadatastuctureexpirencedForked$sumOfThreeMethod2.ic" NAME="sumOfThreeMethod2 Coverage Results" MODIFIED="1654060007535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Practice_Ivy.*</FILTER>
+    </SUITE>
   </component>
 </project>
