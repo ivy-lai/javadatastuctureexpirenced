@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a7886eb-1c9f-4114-bd96-91785acec10f" name="Default Changelist" comment="Add practice branch" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javadatastuctureexpirencedForked" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29xHS9hcLhttvxcx7WGeU83p3oC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.Second">
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.First" />
+      <module name="javadatastuctureexpirencedForked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_Ivy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBranch.Second" />
+      <module name="javadatastuctureexpirencedForked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeBranch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.First" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a7886eb-1c9f-4114-bd96-91785acec10f" name="Default Changelist" comment="" />
+      <created>1654047814042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654047814042</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add practice ivy package">
+      <created>1654047945536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654047945536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add practice branch">
+      <created>1654048280767</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654048280767</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add practice ivy package" />
+    <MESSAGE value="Add practice branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add practice branch" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654050277361">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654050277361" />
+    <state x="578" y="366" key="Github.Dialog.Accounts.Choose" timestamp="1654047988913">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="578" y="366" key="Github.Dialog.Accounts.Choose/0.23.1440.823@0.23.1440.823" timestamp="1654047988913" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1654049865464">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654049865464" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1654049865459">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654049865459" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1654049865459">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654049865459" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1654049865461">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654049865461" />
+    <state x="389" y="152" key="RollbackChangesDialog" timestamp="1654050255502">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="389" y="152" key="RollbackChangesDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050255502" />
+    <state x="229" y="73" key="SettingsEditor" timestamp="1654048023437">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1654048023437" />
+    <state x="426" y="146" key="VCS.ChangeListViewerDialog" timestamp="1654050100335">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="426" y="146" key="VCS.ChangeListViewerDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050100335" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654050313834">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654050313834" />
+    <state x="390" y="233" key="git4idea.merge.GitPullDialog" timestamp="1654050698380">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="390" y="233" key="git4idea.merge.GitPullDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050698380" />
+    <state x="460" y="342" key="git4idea.ui.GitStashDialog" timestamp="1654050130287">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="460" y="342" key="git4idea.ui.GitStashDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050130287" />
+    <state x="460" y="289" key="git4idea.ui.GitUnstashDialog" timestamp="1654050178182">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="460" y="289" key="git4idea.ui.GitUnstashDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050178182" />
+  </component>
+</project>
