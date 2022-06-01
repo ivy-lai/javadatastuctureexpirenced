@@ -18,7 +18,14 @@ public class TryOutArrayList {
         employeeList.add(e1);
 
 
-        System.out.println(employeeList.get(5));
+        employeeList.forEach(e -> {
+            System.out.println(e.toString());
+        });
+
+        employeeList.remove(0);
+        System.out.println(employeeList.indexOf(new Employee("Bob", "Smith", 7777)));
+        System.out.println(employeeList.contains(new Employee("Jane", "Jones", 123)));
 
     }
+
 }

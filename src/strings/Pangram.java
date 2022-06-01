@@ -1,4 +1,4 @@
-package com.strings;
+package strings;
 
 /** Wikipedia: https://en.wikipedia.org/wiki/Pangram */
 public class Pangram {

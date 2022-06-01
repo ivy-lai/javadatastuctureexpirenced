@@ -1,4 +1,4 @@
-package com.strings;
+package strings;
 
 /** Wikipedia: https://en.wikipedia.org/wiki/Palindrome */
 class Palindrome {

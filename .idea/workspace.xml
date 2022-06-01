@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a7886eb-1c9f-4114-bd96-91785acec10f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/sumOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/sumOfThreeMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/BookNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/bookArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/Practice_Ivy/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/lists/classes/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/lists/classes/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_Ivy/TryOutArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_Ivy/TryOutArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lists/classes/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lists/classes/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/Alphabetical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/Alphabetical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/CharactersSame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/CharactersSame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/CheckAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/CheckAnagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,27 +45,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.sumOfThreeMethod2">
-    <configuration name="ArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists.classes.ArrayListMain" />
-      <module name="javadatastuctureexpirencedForked" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lists.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.First" />
+  <component name="RunManager" selected="Application.LinkedListMain">
+    <configuration name="LinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lists.classes.LinkedListMain" />
       <module name="javadatastuctureexpirencedForked" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +65,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeBranch.Second" />
+    <configuration name="TryOutArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.TryOutArrayList" />
       <module name="javadatastuctureexpirencedForked" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeBranch.*" />
+          <option name="PATTERN" value="Practice_Ivy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bookArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.bookArrayList" />
+      <module name="javadatastuctureexpirencedForked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_Ivy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +119,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListMain" />
-      <item itemvalue="Application.First" />
-      <item itemvalue="Application.Second" />
       <item itemvalue="Application.sumOfThree" />
       <item itemvalue="Application.sumOfThreeMethod2" />
+      <item itemvalue="Application.TryOutArrayList" />
+      <item itemvalue="Application.bookArrayList" />
+      <item itemvalue="Application.LinkedListMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListMain" />
+        <item itemvalue="Application.bookArrayList" />
+        <item itemvalue="Application.TryOutArrayList" />
         <item itemvalue="Application.sumOfThreeMethod2" />
         <item itemvalue="Application.sumOfThree" />
-        <item itemvalue="Application.First" />
-        <item itemvalue="Application.ArrayListMain" />
-        <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654059244433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add sum of three class">
+      <created>1654060177482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654060177482</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +200,8 @@
     <MESSAGE value="Add practice branch" />
     <MESSAGE value="Add changes" />
     <MESSAGE value="Add tryout arrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tryout arrayList" />
+    <MESSAGE value="Add sum of three class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sum of three class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="100" key="#Project_Structure" timestamp="1654057779780">
@@ -196,30 +212,34 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1654060100211" />
-    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654059243833">
+    <state x="533" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1654066399418">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654059243833" />
+    <state x="533" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1654066399418" />
+    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654066611436">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654066611436" />
     <state x="578" y="366" key="Github.Dialog.Accounts.Choose" timestamp="1654047988913">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="578" y="366" key="Github.Dialog.Accounts.Choose/0.23.1440.823@0.23.1440.823" timestamp="1654047988913" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1654060069549">
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom" timestamp="1654064590445">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654060069549" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1654060069533">
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654064590445" />
+    <state width="1398" height="126" key="GridCell.Tab.0.center" timestamp="1654064590440">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654060069533" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1654060069532">
+    <state width="1398" height="126" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654064590440" />
+    <state width="1398" height="126" key="GridCell.Tab.0.left" timestamp="1654064590439">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654060069532" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1654060069546">
+    <state width="1398" height="126" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654064590439" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right" timestamp="1654064590441">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654060069546" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654064590441" />
     <state x="389" y="152" key="RollbackChangesDialog" timestamp="1654050255502">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -232,10 +252,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="426" y="146" key="VCS.ChangeListViewerDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050100335" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654059256258">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654060195157">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654059256258" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654060195157" />
     <state x="390" y="233" key="git4idea.merge.GitPullDialog" timestamp="1654051160567">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
