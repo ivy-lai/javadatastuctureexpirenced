@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a7886eb-1c9f-4114-bd96-91785acec10f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice_Ivy/BookLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/Alphabetical.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/CharactersSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/CheckAnagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/HorspoolSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/Lower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/Pangram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/Rotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javadatastuctureexpirencedForked/com/strings/Upper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/CharactersSame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/CharactersSame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/Lower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +42,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Rotation">
-    <configuration name="CharactersSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.CharactersSame" />
+  <component name="RunManager" selected="Application.BookLinkedListImpl">
+    <configuration name="BookLinkedListImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Ivy.BookLinkedListImpl" />
       <module name="javadatastuctureexpirencedForked" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="Practice_Ivy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.CheckAnagrams" />
+    <configuration name="CharactersSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.CharactersSame" />
       <module name="javadatastuctureexpirencedForked" />
       <extension name="coverage">
         <pattern>
@@ -122,18 +110,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CharactersSame" />
-      <item itemvalue="Application.CheckAnagrams" />
       <item itemvalue="Application.Lower" />
       <item itemvalue="Application.Palindrome" />
       <item itemvalue="Application.Rotation" />
+      <item itemvalue="Application.BookLinkedListImpl" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookLinkedListImpl" />
         <item itemvalue="Application.Rotation" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Lower" />
         <item itemvalue="Application.CharactersSame" />
-        <item itemvalue="Application.CheckAnagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654066628900</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Changes">
+      <created>1654069564448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654069564448</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,30 +221,30 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="533" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1654066399418" />
-    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654066628115">
+    <state x="290" y="37" key="CommitChangelistDialog2" timestamp="1654069563797">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654066628115" />
+    <state x="290" y="37" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1654069563797" />
     <state x="578" y="366" key="Github.Dialog.Accounts.Choose" timestamp="1654047988913">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="578" y="366" key="Github.Dialog.Accounts.Choose/0.23.1440.823@0.23.1440.823" timestamp="1654047988913" />
-    <state width="1398" height="126" key="GridCell.Tab.0.bottom" timestamp="1654069473722">
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom" timestamp="1654070533821">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654069473722" />
-    <state width="1398" height="126" key="GridCell.Tab.0.center" timestamp="1654069473696">
+    <state width="1398" height="126" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1654070533821" />
+    <state width="1398" height="126" key="GridCell.Tab.0.center" timestamp="1654070533820">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="126" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654069473696" />
-    <state width="1398" height="126" key="GridCell.Tab.0.left" timestamp="1654069473680">
+    <state width="1398" height="126" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1654070533820" />
+    <state width="1398" height="126" key="GridCell.Tab.0.left" timestamp="1654070533819">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="126" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654069473680" />
-    <state width="1398" height="126" key="GridCell.Tab.0.right" timestamp="1654069473702">
+    <state width="1398" height="126" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1654070533819" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right" timestamp="1654070533821">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="1398" height="126" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654069473702" />
+    <state width="1398" height="126" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1654070533821" />
     <state x="389" y="152" key="RollbackChangesDialog" timestamp="1654050255502">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -262,10 +257,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="426" y="146" key="VCS.ChangeListViewerDialog/0.23.1440.823@0.23.1440.823" timestamp="1654050100335" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654069552687">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1654069570791">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654069552687" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1654069570791" />
     <state x="390" y="233" key="git4idea.merge.GitPullDialog" timestamp="1654051160567">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
